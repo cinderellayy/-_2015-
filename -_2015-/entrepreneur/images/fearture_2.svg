@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="64px" height="72px" viewBox="0 0 64 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12072) - http://www.bohemiancoding.com/sketch -->
+    <title>Paper</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="猎桔融资-单页" sketch:type="MSArtboardGroup" transform="translate(-674.000000, -1031.000000)">
+            <g id="管理融资进度-+-随时查看和追踪融资进展-+-Paper" sketch:type="MSLayerGroup" transform="translate(618.000000, 1031.000000)">
+                <g id="Paper" transform="translate(56.000000, 0.000000)" sketch:type="MSShapeGroup">
+                    <rect stroke="#525D7D" stroke-width="2" x="0" y="0" width="64" height="72" rx="1"></rect>
+                    <path d="M48,12 L16,12" id="Line" stroke="#525D7D" stroke-linejoin="round" transform="translate(32.000000, 12.000000) scale(-1, 1) translate(-32.000000, -12.000000) "></path>
+                    <path d="M52,8 L12,8" id="Line" stroke="#525D7D" stroke-width="2" stroke-linejoin="round" transform="translate(32.000000, 8.000000) scale(-1, 1) translate(-32.000000, -8.000000) "></path>
+                    <circle id="Oval" fill="#132A4F" cx="16" cy="26" r="6"></circle>
+                    <circle id="Oval" fill="#132A4F" cx="16" cy="42" r="6"></circle>
+                    <circle id="Oval" stroke="#525D7D" cx="16" cy="58" r="6"></circle>
+                    <circle id="Oval" fill="#132A4F" cx="32" cy="26" r="6"></circle>
+                    <circle id="Oval" stroke="#525D7D" cx="32" cy="42" r="6"></circle>
+                    <circle id="Oval" stroke="#525D7D" cx="32" cy="58" r="6"></circle>
+                    <circle id="Oval" fill="#132A4F" cx="48" cy="26" r="6"></circle>
+                    <circle id="Oval" stroke="#525D7D" cx="48" cy="42" r="6"></circle>
+                    <circle id="Oval" stroke="#525D7D" cx="48" cy="58" r="6"></circle>
+                    <path d="M18.167,39.518 L15.036,42.839 L13.809,41.613 L13,42.423 L13.405,42.827 L15.06,44.482 L15.464,44.054 L19,40.304 L18.167,39.518" id="Check" fill="#FFFFFF"></path>
+                    <path d="M18.167,23.518 L15.036,26.839 L13.809,25.613 L13,26.423 L13.405,26.827 L15.06,28.482 L15.464,28.054 L19,24.304 L18.167,23.518" id="Check" fill="#FFFFFF"></path>
+                    <path d="M34.167,23.518 L31.036,26.839 L29.809,25.613 L29,26.423 L29.405,26.827 L31.06,28.482 L31.464,28.054 L35,24.304 L34.167,23.518" id="Check" fill="#FFFFFF"></path>
+                    <path d="M50.167,23.518 L47.036,26.839 L45.809,25.613 L45,26.423 L45.405,26.827 L47.06,28.482 L47.464,28.054 L51,24.304 L50.167,23.518" id="Check" fill="#FFFFFF"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
